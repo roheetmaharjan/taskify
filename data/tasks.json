@@ -3,24 +3,35 @@
         "id": 1,
         "title": "Task 1",
         "description": "Description for Task 1",
-        "status": "Completed"
+        "status": "Completed",
+        "image": "/users/user_1.png"
     },
     {
         "id": 2,
         "title": "Task 2",
         "description": "Description for Task 2",
-        "status": "Pending"
+        "status": "Pending",
+        "image": "/users/user_2.png"
     },
     {
         "id": 3,
         "title": "Task 3",
-        "description": "Description for Task 2",
-        "status": "Pending"
+        "description": "Description for Task 3",
+        "status": "Pending",
+        "image": "/users/user_3.png"
     },
     {
         "id": 4,
-        "title": "Task 3",
-        "description": "Description for Task 2",
-        "status": "Pending"
+        "title": "Task 4",
+        "description": "Description for Task 4",
+        "status": "Pending",
+        "image": "/users/user_4.png"
+    },
+    {
+        "id": 5,
+        "title": "Task 5",
+        "description": "Description for Task 5",
+        "status": "Pending",
+        "image": "/users/user_5.png"
     }
 ]
