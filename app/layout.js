@@ -23,9 +23,9 @@ export default function RootLayout({ children }) {
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <div className="flex flex-col md:flex-row h-screen w-full">
+        <div className="flex flex-col md:flex-row h-screen w-full overflow-hidden">
           <Header />
-          <div className="rounded-lg bg-[white] p-5 w-full md:m-4">
+          <div className="rounded-lg bg-[white] p-5 w-full md:m-4 overflow-auto">
             {children}
           </div>
         </div>
